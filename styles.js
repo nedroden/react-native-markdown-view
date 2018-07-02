@@ -1,10 +1,12 @@
+import { Platform } from 'react-native';
+
 export default Object.freeze({
   blockQuote: {
     marginLeft: 10,
     opacity: 0.8,
   },
   codeBlock: {
-    fontFamily: 'Courier',
+    fontFamily: Platform.OS === 'ios' ? 'Courier' :  'sans-serif',
     fontWeight: '500',
   },
   del: {
@@ -72,7 +74,7 @@ export default Object.freeze({
   },
   inlineCode: {
     backgroundColor: 'rgba(128, 128, 128, 0.25)',
-    fontFamily: 'Courier',
+    fontFamily: Platform.OS === 'ios' ? 'Courier' : 'sans-serif',
     fontWeight: '500',
   },
   link: {
