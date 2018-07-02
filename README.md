@@ -1,4 +1,4 @@
-# MarkdownView Cross-Platform
+# MarkdownView Cross-Platform for React Native
 
 ![npm version](https://img.shields.io/npm/v/react-native-markdown-view.svg)
 

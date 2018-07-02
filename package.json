@@ -1,6 +1,6 @@
 {
-  "name": "react-native-markdown-view",
-  "version": "1.1.4",
+  "name": "react-native-markdownview-cross-platform",
+  "version": "1.0.0",
   "description": "React Native Markdown View",
   "main": "index.js",
   "keywords": [
@@ -10,16 +10,16 @@
     "react-component"
   ],
   "author": {
-    "name": "Benjamin Dobell",
+    "name": "Robert Monden",
     "email": "contact@glassechidna.com.au"
   },
-  "homepage": "https://github.com/Benjamin-Dobell/react-native-markdown-view",
+  "homepage": "https://github.com/nedroden/react-native-markdown-view",
   "bugs": {
-    "url": "https://github.com/Benjamin-Dobell/react-native-markdown-view/issues"
+    "url": "https://github.com/nedroden/react-native-markdown-view/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Benjamin-Dobell/react-native-markdown-view.git"
+    "url": "git://github.com/nedroden/react-native-markdown-view.git"
   },
   "license": "MIT",
   "dependencies": {
